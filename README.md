@@ -14,4 +14,4 @@ Users can upload images of plant leaves or crops directly through the web interf
 ## 3. Demo Video
 A demonstration video showcasing the PlantCare application workflow, features, and classification results can be accessed via the following link:
 
-https://binusianorg-my.sharepoint.com/personal/david_goanli_binus_ac_id/_layouts/15/guestaccess.aspx?share=IQCOt-sFUs5TS7xP1UT9twuUAQi21C1zoxFFyixjKb35zbo
+https://binusianorg-my.sharepoint.com/personal/david_goanli_binus_ac_id/_layouts/15/guestaccess.aspx?share=IQCOt-sFUs5TS7xP1UT9twuUAQi21C1zoxFFyixjKb35zbo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W5vtMj
